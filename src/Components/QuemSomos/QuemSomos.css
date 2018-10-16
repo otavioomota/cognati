@@ -1,0 +1,48 @@
+#QuemSomos {
+  margin-top: 30px;
+  padding-top: 100px;
+}
+
+
+
+.circle{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(25, 181, 254, 1);
+}
+.figura{
+  display: block;
+  padding-top: 7px;
+  padding-left: 2px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#quem-somos-box{
+
+}
+
+#QuemSomos-image{
+  height:478px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border: 3px solid rgba(25, 181, 254, 0.4);
+}
+
+#QuemSomos-texto {
+padding-top: 30px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#QuemSomos-historia{
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.text-uppercase{
+  text-transform: uppercase;
+}

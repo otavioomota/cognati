@@ -1,0 +1,50 @@
+#contato{
+  background-color: black;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+#contatos{
+  margin-right: 50px;
+  margin-left: 50px;
+  border: 2px solid #f1f1f1;
+  border-radius: 20px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-bottom: 20px;
+
+}
+#mapa{
+  padding-bottom: 15px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+
+#box{
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+}
+#redes-sociais{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  background-color: black;
+  padding-bottom: 50px;
+}
+
+/* .bola-sociais{
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  background-color: rgba(25, 181, 254, 1);
+} */
+.sociais{
+  height: 40px;
+  width: auto;
+  filter: grayscale(100%);
+  margin-right: 30px;
+}
+.sociais:hover{
+  filter: grayscale(0%);
+}

@@ -1,0 +1,24 @@
+#portifolio{
+  padding-top: 50px;
+  background-color: #EFEFEF;
+}
+#portifolio-titulo {
+  padding-bottom: 15px;
+}
+
+.empresas{
+  transition: 0.2s;
+  height: 60px;
+  width: 100px;
+  filter: grayscale(100%);
+  padding-left: 30px;
+  margin-bottom: 15px;
+}
+.empresas:hover {
+  transition: 0.4s;
+  filter: grayscale(0%);
+}
+
+#carousel{
+  padding-top: 0px;
+}

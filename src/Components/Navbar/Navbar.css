@@ -1,0 +1,55 @@
+ul > li {
+  list-style-type: none;
+}
+
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: none;
+  position:fixed;
+  z-index: 20;
+  width: 100%;
+  transition: 0.35s all ease;
+  font-family: 'Work Sans', sans-serif;
+  height: 100px;
+  top:20px;
+}
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 1000px;
+}
+
+#icon{
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
+.scrolled {
+  height: 75px;
+  background-color: white;
+  transition: 0.35s all ease;
+  box-shadow: 2px 2px 5px grey;
+}
+a:link{
+  text-decoration: none;
+  transition: 0.5s;
+}
+a:hover{
+  transition: 0.5s;
+  cursor: pointer;
+  color:black;
+}
+a:visited{
+  color:blue;
+}
+
+.button{
+  color:red;
+  font-size: 1.2em;
+  text-decoration: none;
+}

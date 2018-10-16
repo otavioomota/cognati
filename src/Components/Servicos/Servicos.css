@@ -1,0 +1,19 @@
+#Servicos{
+
+  /* background-image: linear-gradient(to bottom, rgba(25, 181, 254, 0.4), #19b5fe); */
+  /*background-color: #B0C2EF;  #f1f1f1*/
+  /* background-image: linear-gradient(to bottom, rgba(1, 1, 1, 0.4),  #f1f1f1); */
+  background-color: #EFEFEF;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-left: 30px;
+}
+#titulo{
+  font-weight: 700;
+  color:black;
+}
+
+.icons{
+  height: 66px;
+  width: auto;
+}

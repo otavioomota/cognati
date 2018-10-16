@@ -1,0 +1,30 @@
+.banner{
+  background-position: center;
+  background-size: cover;
+  width:100%;
+  min-width: 100vh;
+  z-index: 1;
+  position: relative;
+	top: 0;
+	left: 0;
+}
+
+#logo {
+    overflow: hidden;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+#myImg {
+    position: absolute;
+    z-index: 2;
+    margin: auto;
+    max-width: 70%;
+    min-width: 70%;
+  }
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
