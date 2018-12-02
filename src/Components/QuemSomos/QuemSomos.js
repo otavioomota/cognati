@@ -14,17 +14,20 @@ import "./QuemSomos.css";
 const textos = [
   {
     title:"Nossa Missão",
-    descricao:"Fornecer produtos de excelência trabalhando pelo resultado e pela prosperidade do nosso time",
+    descricao: `Desenvolver e executar  projetos e obras de alto impacto no âmbito da engenharia e arquitetura, visando a satisfação dos nossos clientes, com a entrega de produtos diferenciados, respeitando o meio ambiente e contribuindo
+                para a melhoria contínua das obras sobre nossa gestão.`,
     image: bandeira
   },
   {
     title:"Nosso Objetivo",
-    descricao:"Ser referência como marca inspirando pessoas com nossa cultura.",
+    descricao:`Ser referencia na área de atuação, junto aos órgãos de fomento e para
+              nossos clientes, na construção de uma relação de confiabilidade,
+              embasada na ética profissional.`,
     image:objetivo
   },
   {
     title:"Nossos Valores",
-    descricao:"Cooperação, Versatilidade, Conectividade e Empreendedorismo.",
+    descricao:`Criatividade e inovação, Competitividade, Satisfação dos clientes, Transparência e Respeito ao meio ambiente`,
     image: diamante
   }
 ]
@@ -77,7 +80,11 @@ const QuemSomos =  () =>  {
               align="justify"
               paragraph
             >
-            A Cognati Engenharia  Ltda. foi fundada em 25 de Abril de 1985, sob a iniciativa dos engenheiros Celso de Souza Macedo e Luiz Gonzaga Sant’Anna Lorentz que compartilhavam o desejo recíproco de elevar o padrão da construção civil mineira e tornar essa a empresa referência para os seus colaboradores e clientes. Mediante a esse propósito, a Alcance Engenharia consolidou sua posição de destaque no mercado da construção civil como empreiteira de tradição do nordeste de Minas Gerais, e ao longo dos seus anos de atuação a realização de importantes empreendimentos ...
+
+            A COGNATI ENGENHARIA é uma empresa jovem, atuante no mercado desde 2017, no desenvolvimento de projetos, execução de obras, e reformas. Para isso, contemplamos diversos segmentos da engenharia.
+            Formada por uma equipe diversificada, e principalmente  qualificada, contamos com engenheiros ambientais, civis, e arquitetos.
+            Com a aplicação de conhecimentos técnicos e princípios éticos, e o desenvolvimento permanente da equipe e dos processos produtivos, disponilizamos para os nossos contratantes as mais modernas tecnologias para concepção, detalhamento e gerenciamento de soluções da engenharia.
+            Acima de tudo, somos uma empresa comprometida com a qualidade na prestação de nossos serviços, e contentamento de nossos clientes, afim de estabelecer um excelente nível de satisfação e consolidar a qualidade desse vínculo.
           </Typography>
           <div>
 
